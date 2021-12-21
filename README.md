@@ -13,6 +13,10 @@ Sample website with plenty of files for demos
 
 deplyment stage
 
+## Contribute
+
+forking hell
+
 ##Copright
 
 copyright lee
